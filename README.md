@@ -5,7 +5,7 @@ This project is a simple webpage that utilizes the parallax effect to create an 
 Getting Started-
 To get started with this project, follow the instructions below:
 
-1)Clone the repository: git clone https://github.com/your-username/parallax-webpage.git
+1)Clone the repository: git clone https://github.com/Harshit-rohilla/parallax-webpage.git
 Navigate to the project directory: cd parallax-webpage
 Prerequisites
 To run this webpage, you will need a modern web browser that supports HTML, CSS, and JavaScript.
